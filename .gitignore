@@ -1,0 +1,17 @@
+
+# Acesso a pasta privada
+private/
+config/
+curso_adicionar.php
+dashboard.php
+login.php
+
+# Privar acesso a pastas que contem o SQL
+SQL/
+user.sql 
+create_database.sql
+
+# Privar acesso a pastas de routes 
+public/
+routes/
+config/
