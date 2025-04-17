@@ -15,3 +15,7 @@ create_database.sql
 public/
 routes/
 config/
+
+# Ignorar pasta de testes 
+test/ 
+teste.html 
