@@ -42,9 +42,9 @@ O linfy é feito pensando em:
 
 ## Requisitos 
 
-- `PHP 8`
-- `MySQL 5.7 ou MariaDB`
-- `Xampp`
+- `PHP 8+`
+- `MySQL 5.7+ ou MariaDB`
+- `Xampp, Laragon, Wampp`
 
 
 
@@ -74,9 +74,6 @@ Aceitamos pull request, ideais maluca e até mais programadores. **OBS: NÃO ACE
 4. Push na branch (`git push origin features/NOME`)
 
 5. Abra uma PR
-
-
--- 
 
 # Licença 
 
