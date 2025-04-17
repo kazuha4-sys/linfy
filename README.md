@@ -2,7 +2,9 @@
 
 > Desenvolvida por Kazuha4-sys, Enzo e Adex.
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![License](https://img.shields.io/badge/license-MIT-blue) ![Feito com PHP](https://img.shields.io/badge/PHP-8.2-purple?logo=php) ![Feito com SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)
+![Feito com JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Feito com HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-FullStack-critical?logo=html5&logoColor=white)
 
 
 ## Sobre o projeto
